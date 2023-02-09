@@ -1,0 +1,520 @@
+ 2023-02-09 09:50:51,619 - INFO - Backtest params :
+ 2023-02-09 09:50:51,619 - INFO - {'aum': 100000000.0, 'maxTradeADV': 0.15, 'maxDollarTrade': 10000000.0, 'trade_file': 'Y:\\***\\backtest\\data\\test.csv', 'write_stats': True, 'pyfolio_analysis': True}
+ 2023-02-09 09:50:51,658 - INFO - Downloading historical EOD data from Yahoo Finance ... 
+ 2023-02-09 09:50:52,546 - INFO - Finished downloading historical data.
+ 2023-02-09 09:50:52,553 - INFO - Running backtest for Y:\***\backtest\data\test.csv from 2022-01-03 to 2022-12-31
+ 2023-02-09 09:50:52,596 - INFO - 2022-01-03 : Stats Total # trades 1 | Total # Executed 1 | Incomplete # Execution 0 
+ 2023-02-09 09:50:52,597 - INFO - 2022-01-03 : Stats Total trades $10,000,000 | Total Executed $10,106,968 | Incomplete Execution $0 
+ 2023-02-09 09:50:52,611 - INFO - 2022-01-03 : Trade PL $106,761 | Position PL $0 | Total PL $106,761 | AUM $100,106,761 | Return on AUM 0.11% 
+ 2023-02-09 09:50:52,615 - INFO - 2022-01-04 No trades to execute 
+ 2023-02-09 09:50:52,626 - INFO - 2022-01-04 : Trade PL $0 | Position PL $-129,627 | Total PL $-129,627 | AUM $99,977,134 | Return on AUM -0.13% 
+ 2023-02-09 09:50:52,629 - INFO - 2022-01-05 No trades to execute 
+ 2023-02-09 09:50:52,640 - INFO - 2022-01-05 : Trade PL $0 | Position PL $-268,237 | Total PL $-268,237 | AUM $99,708,896 | Return on AUM -0.27% 
+ 2023-02-09 09:50:52,643 - INFO - 2022-01-06 No trades to execute 
+ 2023-02-09 09:50:52,654 - INFO - 2022-01-06 : Trade PL $0 | Position PL $-163,858 | Total PL $-163,858 | AUM $99,545,038 | Return on AUM -0.16% 
+ 2023-02-09 09:50:52,658 - INFO - 2022-01-07 No trades to execute 
+ 2023-02-09 09:50:52,669 - INFO - 2022-01-07 : Trade PL $0 | Position PL $9,540 | Total PL $9,540 | AUM $99,554,578 | Return on AUM 0.01% 
+ 2023-02-09 09:50:52,672 - INFO - 2022-01-10 No trades to execute 
+ 2023-02-09 09:50:52,683 - INFO - 2022-01-10 : Trade PL $0 | Position PL $1,121 | Total PL $1,121 | AUM $99,555,699 | Return on AUM 0.00% 
+ 2023-02-09 09:50:52,686 - INFO - 2022-01-11 No trades to execute 
+ 2023-02-09 09:50:52,698 - INFO - 2022-01-11 : Trade PL $0 | Position PL $162,177 | Total PL $162,177 | AUM $99,717,876 | Return on AUM 0.16% 
+ 2023-02-09 09:50:52,701 - INFO - 2022-01-12 No trades to execute 
+ 2023-02-09 09:50:52,712 - INFO - 2022-01-12 : Trade PL $0 | Position PL $25,251 | Total PL $25,251 | AUM $99,743,128 | Return on AUM 0.03% 
+ 2023-02-09 09:50:52,715 - INFO - 2022-01-13 No trades to execute 
+ 2023-02-09 09:50:52,727 - INFO - 2022-01-13 : Trade PL $0 | Position PL $-187,428 | Total PL $-187,428 | AUM $99,555,699 | Return on AUM -0.19% 
+ 2023-02-09 09:50:52,730 - INFO - 2022-01-14 No trades to execute 
+ 2023-02-09 09:50:52,742 - INFO - 2022-01-14 : Trade PL $0 | Position PL $49,383 | Total PL $49,383 | AUM $99,605,083 | Return on AUM 0.05% 
+ 2023-02-09 09:50:52,745 - INFO - 2022-01-18 No trades to execute 
+ 2023-02-09 09:50:52,757 - INFO - 2022-01-18 : Trade PL $0 | Position PL $-183,501 | Total PL $-183,501 | AUM $99,421,582 | Return on AUM -0.18% 
+ 2023-02-09 09:50:52,760 - INFO - 2022-01-19 No trades to execute 
+ 2023-02-09 09:50:52,772 - INFO - 2022-01-19 : Trade PL $0 | Position PL $-200,335 | Total PL $-200,335 | AUM $99,221,247 | Return on AUM -0.20% 
+ 2023-02-09 09:50:52,775 - INFO - 2022-01-20 No trades to execute 
+ 2023-02-09 09:50:52,787 - INFO - 2022-01-20 : Trade PL $0 | Position PL $-96,521 | Total PL $-96,521 | AUM $99,124,726 | Return on AUM -0.10% 
+ 2023-02-09 09:50:52,790 - INFO - 2022-01-21 No trades to execute 
+ 2023-02-09 09:50:52,801 - INFO - 2022-01-21 : Trade PL $0 | Position PL $-117,844 | Total PL $-117,844 | AUM $99,006,882 | Return on AUM -0.12% 
+ 2023-02-09 09:50:52,804 - INFO - 2022-01-24 No trades to execute 
+ 2023-02-09 09:50:52,816 - INFO - 2022-01-24 : Trade PL $0 | Position PL $-44,332 | Total PL $-44,332 | AUM $98,962,550 | Return on AUM -0.04% 
+ 2023-02-09 09:50:52,820 - INFO - 2022-01-25 No trades to execute 
+ 2023-02-09 09:50:52,832 - INFO - 2022-01-25 : Trade PL $0 | Position PL $-103,253 | Total PL $-103,253 | AUM $98,859,297 | Return on AUM -0.10% 
+ 2023-02-09 09:50:52,835 - INFO - 2022-01-26 No trades to execute 
+ 2023-02-09 09:50:52,847 - INFO - 2022-01-26 : Trade PL $0 | Position PL $-5,051 | Total PL $-5,051 | AUM $98,854,246 | Return on AUM -0.01% 
+ 2023-02-09 09:50:52,850 - INFO - 2022-01-27 No trades to execute 
+ 2023-02-09 09:50:52,861 - INFO - 2022-01-27 : Trade PL $0 | Position PL $-26,374 | Total PL $-26,374 | AUM $98,827,872 | Return on AUM -0.03% 
+ 2023-02-09 09:50:52,864 - INFO - 2022-01-28 No trades to execute 
+ 2023-02-09 09:50:52,876 - INFO - 2022-01-28 : Trade PL $0 | Position PL $623,451 | Total PL $623,451 | AUM $99,451,323 | Return on AUM 0.63% 
+ 2023-02-09 09:50:52,879 - INFO - 2022-01-31 No trades to execute 
+ 2023-02-09 09:50:52,891 - INFO - 2022-01-31 : Trade PL $0 | Position PL $249,718 | Total PL $249,718 | AUM $99,701,041 | Return on AUM 0.25% 
+ 2023-02-09 09:50:52,895 - INFO - 2022-02-01 No trades to execute 
+ 2023-02-09 09:50:52,907 - INFO - 2022-02-01 : Trade PL $0 | Position PL $-9,540 | Total PL $-9,540 | AUM $99,691,501 | Return on AUM -0.01% 
+ 2023-02-09 09:50:52,910 - INFO - 2022-02-02 No trades to execute 
+ 2023-02-09 09:50:52,921 - INFO - 2022-02-02 : Trade PL $0 | Position PL $69,024 | Total PL $69,024 | AUM $99,760,525 | Return on AUM 0.07% 
+ 2023-02-09 09:50:52,924 - INFO - 2022-02-03 No trades to execute 
+ 2023-02-09 09:50:52,936 - INFO - 2022-02-03 : Trade PL $0 | Position PL $-164,983 | Total PL $-164,983 | AUM $99,595,542 | Return on AUM -0.17% 
+ 2023-02-09 09:50:52,939 - INFO - 2022-02-04 No trades to execute 
+ 2023-02-09 09:50:52,951 - INFO - 2022-02-04 : Trade PL $0 | Position PL $-16,294 | Total PL $-16,294 | AUM $99,579,248 | Return on AUM -0.02% 
+ 2023-02-09 09:50:52,954 - INFO - 2022-02-07 No trades to execute 
+ 2023-02-09 09:50:52,966 - INFO - 2022-02-07 : Trade PL $0 | Position PL $-41,017 | Total PL $-41,017 | AUM $99,538,231 | Return on AUM -0.04% 
+ 2023-02-09 09:50:52,969 - INFO - 2022-02-08 No trades to execute 
+ 2023-02-09 09:50:52,981 - INFO - 2022-02-08 : Trade PL $0 | Position PL $178,115 | Total PL $178,115 | AUM $99,716,346 | Return on AUM 0.18% 
+ 2023-02-09 09:50:52,984 - INFO - 2022-02-09 No trades to execute 
+ 2023-02-09 09:50:52,996 - INFO - 2022-02-09 : Trade PL $0 | Position PL $81,473 | Total PL $81,473 | AUM $99,797,819 | Return on AUM 0.08% 
+ 2023-02-09 09:50:52,999 - INFO - 2022-02-10 No trades to execute 
+ 2023-02-09 09:50:53,012 - INFO - 2022-02-10 : Trade PL $0 | Position PL $-233,742 | Total PL $-233,742 | AUM $99,564,077 | Return on AUM -0.23% 
+ 2023-02-09 09:50:53,015 - INFO - 2022-02-11 No trades to execute 
+ 2023-02-09 09:50:53,027 - INFO - 2022-02-11 : Trade PL $0 | Position PL $-195,533 | Total PL $-195,533 | AUM $99,368,544 | Return on AUM -0.20% 
+ 2023-02-09 09:50:53,030 - INFO - 2022-02-14 No trades to execute 
+ 2023-02-09 09:50:53,042 - INFO - 2022-02-14 : Trade PL $0 | Position PL $13,484 | Total PL $13,484 | AUM $99,382,029 | Return on AUM 0.01% 
+ 2023-02-09 09:50:53,045 - INFO - 2022-02-15 No trades to execute 
+ 2023-02-09 09:50:53,057 - INFO - 2022-02-15 : Trade PL $0 | Position PL $219,695 | Total PL $219,695 | AUM $99,601,723 | Return on AUM 0.22% 
+ 2023-02-09 09:50:53,060 - INFO - 2022-02-16 No trades to execute 
+ 2023-02-09 09:50:53,072 - INFO - 2022-02-16 : Trade PL $0 | Position PL $-13,484 | Total PL $-13,484 | AUM $99,588,239 | Return on AUM -0.01% 
+ 2023-02-09 09:50:53,075 - INFO - 2022-02-17 No trades to execute 
+ 2023-02-09 09:50:53,087 - INFO - 2022-02-17 : Trade PL $0 | Position PL $-206,210 | Total PL $-206,210 | AUM $99,382,029 | Return on AUM -0.21% 
+ 2023-02-09 09:50:53,090 - INFO - 2022-02-18 No trades to execute 
+ 2023-02-09 09:50:53,102 - INFO - 2022-02-18 : Trade PL $0 | Position PL $-88,776 | Total PL $-88,776 | AUM $99,293,252 | Return on AUM -0.09% 
+ 2023-02-09 09:50:53,105 - INFO - 2022-02-22 No trades to execute 
+ 2023-02-09 09:50:53,117 - INFO - 2022-02-22 : Trade PL $0 | Position PL $-167,440 | Total PL $-167,440 | AUM $99,125,812 | Return on AUM -0.17% 
+ 2023-02-09 09:50:53,121 - INFO - 2022-02-23 No trades to execute 
+ 2023-02-09 09:50:53,132 - INFO - 2022-02-23 : Trade PL $0 | Position PL $-238,798 | Total PL $-238,798 | AUM $98,887,015 | Return on AUM -0.24% 
+ 2023-02-09 09:50:53,136 - INFO - 2022-02-24 No trades to execute 
+ 2023-02-09 09:50:53,147 - INFO - 2022-02-24 : Trade PL $0 | Position PL $150,021 | Total PL $150,021 | AUM $99,037,036 | Return on AUM 0.15% 
+ 2023-02-09 09:50:53,150 - INFO - 2022-02-25 No trades to execute 
+ 2023-02-09 09:50:53,161 - INFO - 2022-02-25 : Trade PL $0 | Position PL $118,556 | Total PL $118,556 | AUM $99,155,592 | Return on AUM 0.12% 
+ 2023-02-09 09:50:53,164 - INFO - 2022-02-28 No trades to execute 
+ 2023-02-09 09:50:53,175 - INFO - 2022-02-28 : Trade PL $0 | Position PL $15,171 | Total PL $15,171 | AUM $99,170,763 | Return on AUM 0.02% 
+ 2023-02-09 09:50:53,178 - INFO - 2022-03-01 No trades to execute 
+ 2023-02-09 09:50:53,190 - INFO - 2022-03-01 : Trade PL $0 | Position PL $-107,880 | Total PL $-107,880 | AUM $99,062,883 | Return on AUM -0.11% 
+ 2023-02-09 09:50:53,193 - INFO - 2022-03-02 No trades to execute 
+ 2023-02-09 09:50:53,205 - INFO - 2022-03-02 : Trade PL $0 | Position PL $188,791 | Total PL $188,791 | AUM $99,251,674 | Return on AUM 0.19% 
+ 2023-02-09 09:50:53,208 - INFO - 2022-03-03 No trades to execute 
+ 2023-02-09 09:50:53,220 - INFO - 2022-03-03 : Trade PL $0 | Position PL $-18,542 | Total PL $-18,542 | AUM $99,233,131 | Return on AUM -0.02% 
+ 2023-02-09 09:50:53,223 - INFO - 2022-03-04 No trades to execute 
+ 2023-02-09 09:50:53,236 - INFO - 2022-03-04 : Trade PL $0 | Position PL $-171,935 | Total PL $-171,935 | AUM $99,061,196 | Return on AUM -0.17% 
+ 2023-02-09 09:50:53,239 - INFO - 2022-03-07 No trades to execute 
+ 2023-02-09 09:50:53,251 - INFO - 2022-03-07 : Trade PL $0 | Position PL $-217,446 | Total PL $-217,446 | AUM $98,843,751 | Return on AUM -0.22% 
+ 2023-02-09 09:50:53,254 - INFO - 2022-03-08 No trades to execute 
+ 2023-02-09 09:50:53,265 - INFO - 2022-03-08 : Trade PL $0 | Position PL $-104,510 | Total PL $-104,510 | AUM $98,739,240 | Return on AUM -0.11% 
+ 2023-02-09 09:50:53,269 - INFO - 2022-03-09 No trades to execute 
+ 2023-02-09 09:50:53,281 - INFO - 2022-03-09 : Trade PL $0 | Position PL $309,596 | Total PL $309,596 | AUM $99,048,836 | Return on AUM 0.31% 
+ 2023-02-09 09:50:53,284 - INFO - 2022-03-10 No trades to execute 
+ 2023-02-09 09:50:53,296 - INFO - 2022-03-10 : Trade PL $0 | Position PL $-248,912 | Total PL $-248,912 | AUM $98,799,924 | Return on AUM -0.25% 
+ 2023-02-09 09:50:53,299 - INFO - 2022-03-11 No trades to execute 
+ 2023-02-09 09:50:53,311 - INFO - 2022-03-11 : Trade PL $0 | Position PL $-212,953 | Total PL $-212,953 | AUM $98,586,971 | Return on AUM -0.22% 
+ 2023-02-09 09:50:53,314 - INFO - 2022-03-14 No trades to execute 
+ 2023-02-09 09:50:53,326 - INFO - 2022-03-14 : Trade PL $0 | Position PL $-230,932 | Total PL $-230,932 | AUM $98,356,039 | Return on AUM -0.23% 
+ 2023-02-09 09:50:53,329 - INFO - 2022-03-15 No trades to execute 
+ 2023-02-09 09:50:53,341 - INFO - 2022-03-15 : Trade PL $0 | Position PL $251,159 | Total PL $251,159 | AUM $98,607,198 | Return on AUM 0.26% 
+ 2023-02-09 09:50:53,344 - INFO - 2022-03-16 No trades to execute 
+ 2023-02-09 09:50:53,355 - INFO - 2022-03-16 : Trade PL $0 | Position PL $252,846 | Total PL $252,846 | AUM $98,860,044 | Return on AUM 0.26% 
+ 2023-02-09 09:50:53,358 - INFO - 2022-03-17 No trades to execute 
+ 2023-02-09 09:50:53,369 - INFO - 2022-03-17 : Trade PL $0 | Position PL $57,873 | Total PL $57,873 | AUM $98,917,918 | Return on AUM 0.06% 
+ 2023-02-09 09:50:53,372 - INFO - 2022-03-18 No trades to execute 
+ 2023-02-09 09:50:53,384 - INFO - 2022-03-18 : Trade PL $0 | Position PL $188,791 | Total PL $188,791 | AUM $99,106,708 | Return on AUM 0.19% 
+ 2023-02-09 09:50:53,387 - INFO - 2022-03-21 No trades to execute 
+ 2023-02-09 09:50:53,398 - INFO - 2022-03-21 : Trade PL $0 | Position PL $78,664 | Total PL $78,664 | AUM $99,185,372 | Return on AUM 0.08% 
+ 2023-02-09 09:50:53,402 - INFO - 2022-03-22 No trades to execute 
+ 2023-02-09 09:50:53,413 - INFO - 2022-03-22 : Trade PL $0 | Position PL $193,286 | Total PL $193,286 | AUM $99,378,658 | Return on AUM 0.19% 
+ 2023-02-09 09:50:53,416 - INFO - 2022-03-23 No trades to execute 
+ 2023-02-09 09:50:53,428 - INFO - 2022-03-23 : Trade PL $0 | Position PL $78,102 | Total PL $78,102 | AUM $99,456,760 | Return on AUM 0.08% 
+ 2023-02-09 09:50:53,431 - INFO - 2022-03-24 No trades to execute 
+ 2023-02-09 09:50:53,443 - INFO - 2022-03-24 : Trade PL $0 | Position PL $216,883 | Total PL $216,883 | AUM $99,673,643 | Return on AUM 0.22% 
+ 2023-02-09 09:50:53,446 - INFO - 2022-03-25 No trades to execute 
+ 2023-02-09 09:50:53,458 - INFO - 2022-03-25 : Trade PL $0 | Position PL $36,522 | Total PL $36,522 | AUM $99,710,166 | Return on AUM 0.04% 
+ 2023-02-09 09:50:53,461 - INFO - 2022-03-28 No trades to execute 
+ 2023-02-09 09:50:53,472 - INFO - 2022-03-28 : Trade PL $0 | Position PL $49,445 | Total PL $49,445 | AUM $99,759,611 | Return on AUM 0.05% 
+ 2023-02-09 09:50:53,475 - INFO - 2022-03-29 No trades to execute 
+ 2023-02-09 09:50:53,486 - INFO - 2022-03-29 : Trade PL $0 | Position PL $188,791 | Total PL $188,791 | AUM $99,948,402 | Return on AUM 0.19% 
+ 2023-02-09 09:50:53,489 - INFO - 2022-03-30 No trades to execute 
+ 2023-02-09 09:50:53,502 - INFO - 2022-03-30 : Trade PL $0 | Position PL $-66,863 | Total PL $-66,863 | AUM $99,881,539 | Return on AUM -0.07% 
+ 2023-02-09 09:50:53,505 - INFO - 2022-03-31 No trades to execute 
+ 2023-02-09 09:50:53,516 - INFO - 2022-03-31 : Trade PL $0 | Position PL $-177,553 | Total PL $-177,553 | AUM $99,703,985 | Return on AUM -0.18% 
+ 2023-02-09 09:50:53,520 - INFO - 2022-04-01 No trades to execute 
+ 2023-02-09 09:50:53,532 - INFO - 2022-04-01 : Trade PL $0 | Position PL $-16,858 | Total PL $-16,858 | AUM $99,687,128 | Return on AUM -0.02% 
+ 2023-02-09 09:50:53,535 - INFO - 2022-04-04 No trades to execute 
+ 2023-02-09 09:50:53,547 - INFO - 2022-04-04 : Trade PL $0 | Position PL $232,056 | Total PL $232,056 | AUM $99,919,184 | Return on AUM 0.23% 
+ 2023-02-09 09:50:53,550 - INFO - 2022-04-05 No trades to execute 
+ 2023-02-09 09:50:53,561 - INFO - 2022-04-05 : Trade PL $0 | Position PL $-189,915 | Total PL $-189,915 | AUM $99,729,269 | Return on AUM -0.19% 
+ 2023-02-09 09:50:53,564 - INFO - 2022-04-06 No trades to execute 
+ 2023-02-09 09:50:53,576 - INFO - 2022-04-06 : Trade PL $0 | Position PL $-181,486 | Total PL $-181,486 | AUM $99,547,783 | Return on AUM -0.18% 
+ 2023-02-09 09:50:53,579 - INFO - 2022-04-07 No trades to execute 
+ 2023-02-09 09:50:53,590 - INFO - 2022-04-07 : Trade PL $0 | Position PL $17,418 | Total PL $17,418 | AUM $99,565,201 | Return on AUM 0.02% 
+ 2023-02-09 09:50:53,593 - INFO - 2022-04-08 No trades to execute 
+ 2023-02-09 09:50:53,604 - INFO - 2022-04-08 : Trade PL $0 | Position PL $-115,185 | Total PL $-115,185 | AUM $99,450,015 | Return on AUM -0.12% 
+ 2023-02-09 09:50:53,607 - INFO - 2022-04-11 No trades to execute 
+ 2023-02-09 09:50:53,618 - INFO - 2022-04-11 : Trade PL $0 | Position PL $-243,855 | Total PL $-243,855 | AUM $99,206,161 | Return on AUM -0.25% 
+ 2023-02-09 09:50:53,621 - INFO - 2022-04-12 No trades to execute 
+ 2023-02-09 09:50:53,632 - INFO - 2022-04-12 : Trade PL $0 | Position PL $107,320 | Total PL $107,320 | AUM $99,313,480 | Return on AUM 0.11% 
+ 2023-02-09 09:50:53,635 - INFO - 2022-04-13 No trades to execute 
+ 2023-02-09 09:50:53,647 - INFO - 2022-04-13 : Trade PL $0 | Position PL $153,953 | Total PL $153,953 | AUM $99,467,433 | Return on AUM 0.16% 
+ 2023-02-09 09:50:53,650 - INFO - 2022-04-14 No trades to execute 
+ 2023-02-09 09:50:53,661 - INFO - 2022-04-14 : Trade PL $0 | Position PL $-287,119 | Total PL $-287,119 | AUM $99,180,314 | Return on AUM -0.29% 
+ 2023-02-09 09:50:53,665 - INFO - 2022-04-18 No trades to execute 
+ 2023-02-09 09:50:53,676 - INFO - 2022-04-18 : Trade PL $0 | Position PL $-12,360 | Total PL $-12,360 | AUM $99,167,954 | Return on AUM -0.01% 
+ 2023-02-09 09:50:53,679 - INFO - 2022-04-19 No trades to execute 
+ 2023-02-09 09:50:53,691 - INFO - 2022-04-19 : Trade PL $0 | Position PL $130,917 | Total PL $130,917 | AUM $99,298,871 | Return on AUM 0.13% 
+ 2023-02-09 09:50:53,694 - INFO - 2022-04-20 No trades to execute 
+ 2023-02-09 09:50:53,706 - INFO - 2022-04-20 : Trade PL $0 | Position PL $-9,553 | Total PL $-9,553 | AUM $99,289,318 | Return on AUM -0.01% 
+ 2023-02-09 09:50:53,709 - INFO - 2022-04-21 No trades to execute 
+ 2023-02-09 09:50:53,722 - INFO - 2022-04-21 : Trade PL $0 | Position PL $-45,511 | Total PL $-45,511 | AUM $99,243,807 | Return on AUM -0.05% 
+ 2023-02-09 09:50:53,725 - INFO - 2022-04-22 No trades to execute 
+ 2023-02-09 09:50:53,736 - INFO - 2022-04-22 : Trade PL $0 | Position PL $-260,150 | Total PL $-260,150 | AUM $98,983,657 | Return on AUM -0.26% 
+ 2023-02-09 09:50:53,740 - INFO - 2022-04-25 No trades to execute 
+ 2023-02-09 09:50:53,751 - INFO - 2022-04-25 : Trade PL $0 | Position PL $61,245 | Total PL $61,245 | AUM $99,044,902 | Return on AUM 0.06% 
+ 2023-02-09 09:50:53,754 - INFO - 2022-04-26 No trades to execute 
+ 2023-02-09 09:50:53,766 - INFO - 2022-04-26 : Trade PL $0 | Position PL $-341,622 | Total PL $-341,622 | AUM $98,703,280 | Return on AUM -0.34% 
+ 2023-02-09 09:50:53,769 - INFO - 2022-04-27 No trades to execute 
+ 2023-02-09 09:50:53,781 - INFO - 2022-04-27 : Trade PL $0 | Position PL $-12,923 | Total PL $-12,923 | AUM $98,690,357 | Return on AUM -0.01% 
+ 2023-02-09 09:50:53,784 - INFO - 2022-04-28 No trades to execute 
+ 2023-02-09 09:50:53,795 - INFO - 2022-04-28 : Trade PL $0 | Position PL $397,247 | Total PL $397,247 | AUM $99,087,605 | Return on AUM 0.40% 
+ 2023-02-09 09:50:53,798 - INFO - 2022-04-29 No trades to execute 
+ 2023-02-09 09:50:53,809 - INFO - 2022-04-29 : Trade PL $0 | Position PL $-336,565 | Total PL $-336,565 | AUM $98,751,039 | Return on AUM -0.34% 
+ 2023-02-09 09:50:53,812 - INFO - 2022-05-02 No trades to execute 
+ 2023-02-09 09:50:53,824 - INFO - 2022-05-02 : Trade PL $0 | Position PL $17,419 | Total PL $17,419 | AUM $98,768,459 | Return on AUM 0.02% 
+ 2023-02-09 09:50:53,827 - INFO - 2022-05-03 No trades to execute 
+ 2023-02-09 09:50:53,838 - INFO - 2022-05-03 : Trade PL $0 | Position PL $85,405 | Total PL $85,405 | AUM $98,853,863 | Return on AUM 0.09% 
+ 2023-02-09 09:50:53,841 - INFO - 2022-05-04 No trades to execute 
+ 2023-02-09 09:50:53,852 - INFO - 2022-05-04 : Trade PL $0 | Position PL $367,468 | Total PL $367,468 | AUM $99,221,331 | Return on AUM 0.37% 
+ 2023-02-09 09:50:53,855 - INFO - 2022-05-05 No trades to execute 
+ 2023-02-09 09:50:53,867 - INFO - 2022-05-05 : Trade PL $0 | Position PL $-519,736 | Total PL $-519,736 | AUM $98,701,595 | Return on AUM -0.52% 
+ 2023-02-09 09:50:53,870 - INFO - 2022-05-06 No trades to execute 
+ 2023-02-09 09:50:53,881 - INFO - 2022-05-06 : Trade PL $0 | Position PL $41,639 | Total PL $41,639 | AUM $98,743,234 | Return on AUM 0.04% 
+ 2023-02-09 09:50:53,884 - INFO - 2022-05-09 No trades to execute 
+ 2023-02-09 09:50:53,896 - INFO - 2022-05-09 : Trade PL $0 | Position PL $-293,731 | Total PL $-293,731 | AUM $98,449,503 | Return on AUM -0.30% 
+ 2023-02-09 09:50:53,899 - INFO - 2022-05-10 No trades to execute 
+ 2023-02-09 09:50:53,911 - INFO - 2022-05-10 : Trade PL $0 | Position PL $137,862 | Total PL $137,862 | AUM $98,587,365 | Return on AUM 0.14% 
+ 2023-02-09 09:50:53,914 - INFO - 2022-05-11 No trades to execute 
+ 2023-02-09 09:50:53,925 - INFO - 2022-05-11 : Trade PL $0 | Position PL $-450,725 | Total PL $-450,725 | AUM $98,136,640 | Return on AUM -0.46% 
+ 2023-02-09 09:50:53,928 - INFO - 2022-05-12 No trades to execute 
+ 2023-02-09 09:50:53,940 - INFO - 2022-05-12 : Trade PL $0 | Position PL $-221,706 | Total PL $-221,706 | AUM $97,914,934 | Return on AUM -0.23% 
+ 2023-02-09 09:50:53,943 - INFO - 2022-05-13 No trades to execute 
+ 2023-02-09 09:50:53,955 - INFO - 2022-05-13 : Trade PL $0 | Position PL $256,031 | Total PL $256,031 | AUM $98,170,965 | Return on AUM 0.26% 
+ 2023-02-09 09:50:53,958 - INFO - 2022-05-16 No trades to execute 
+ 2023-02-09 09:50:53,969 - INFO - 2022-05-16 : Trade PL $0 | Position PL $-88,345 | Total PL $-88,345 | AUM $98,082,621 | Return on AUM -0.09% 
+ 2023-02-09 09:50:53,972 - INFO - 2022-05-17 No trades to execute 
+ 2023-02-09 09:50:53,983 - INFO - 2022-05-17 : Trade PL $0 | Position PL $208,200 | Total PL $208,200 | AUM $98,290,821 | Return on AUM 0.21% 
+ 2023-02-09 09:50:53,987 - INFO - 2022-05-18 No trades to execute 
+ 2023-02-09 09:50:53,998 - INFO - 2022-05-18 : Trade PL $0 | Position PL $-473,796 | Total PL $-473,796 | AUM $97,817,025 | Return on AUM -0.48% 
+ 2023-02-09 09:50:54,000 - INFO - 2022-05-19 No trades to execute 
+ 2023-02-09 09:50:54,013 - INFO - 2022-05-19 : Trade PL $0 | Position PL $-195,259 | Total PL $-195,259 | AUM $97,621,766 | Return on AUM -0.20% 
+ 2023-02-09 09:50:54,016 - INFO - 2022-05-20 No trades to execute 
+ 2023-02-09 09:50:54,028 - INFO - 2022-05-20 : Trade PL $0 | Position PL $13,504 | Total PL $13,504 | AUM $97,635,270 | Return on AUM 0.01% 
+ 2023-02-09 09:50:54,031 - INFO - 2022-05-23 No trades to execute 
+ 2023-02-09 09:50:54,042 - INFO - 2022-05-23 : Trade PL $0 | Position PL $310,613 | Total PL $310,613 | AUM $97,945,883 | Return on AUM 0.32% 
+ 2023-02-09 09:50:54,045 - INFO - 2022-05-24 No trades to execute 
+ 2023-02-09 09:50:54,057 - INFO - 2022-05-24 : Trade PL $0 | Position PL $-154,744 | Total PL $-154,744 | AUM $97,791,139 | Return on AUM -0.16% 
+ 2023-02-09 09:50:54,060 - INFO - 2022-05-25 No trades to execute 
+ 2023-02-09 09:50:54,072 - INFO - 2022-05-25 : Trade PL $0 | Position PL $9,004 | Total PL $9,004 | AUM $97,800,144 | Return on AUM 0.01% 
+ 2023-02-09 09:50:54,075 - INFO - 2022-05-26 No trades to execute 
+ 2023-02-09 09:50:54,086 - INFO - 2022-05-26 : Trade PL $0 | Position PL $183,440 | Total PL $183,440 | AUM $97,983,584 | Return on AUM 0.19% 
+ 2023-02-09 09:50:54,089 - INFO - 2022-05-27 No trades to execute 
+ 2023-02-09 09:50:54,101 - INFO - 2022-05-27 : Trade PL $0 | Position PL $329,745 | Total PL $329,745 | AUM $98,313,329 | Return on AUM 0.34% 
+ 2023-02-09 09:50:54,104 - INFO - 2022-05-31 No trades to execute 
+ 2023-02-09 09:50:54,115 - INFO - 2022-05-31 : Trade PL $0 | Position PL $-45,016 | Total PL $-45,016 | AUM $98,268,313 | Return on AUM -0.05% 
+ 2023-02-09 09:50:54,118 - INFO - 2022-06-01 No trades to execute 
+ 2023-02-09 09:50:54,129 - INFO - 2022-06-01 : Trade PL $0 | Position PL $-7,315 | Total PL $-7,315 | AUM $98,260,997 | Return on AUM -0.01% 
+ 2023-02-09 09:50:54,132 - INFO - 2022-06-02 No trades to execute 
+ 2023-02-09 09:50:54,144 - INFO - 2022-06-02 : Trade PL $0 | Position PL $140,676 | Total PL $140,676 | AUM $98,401,673 | Return on AUM 0.14% 
+ 2023-02-09 09:50:54,147 - INFO - 2022-06-03 No trades to execute 
+ 2023-02-09 09:50:54,159 - INFO - 2022-06-03 : Trade PL $0 | Position PL $-328,056 | Total PL $-328,056 | AUM $98,073,617 | Return on AUM -0.33% 
+ 2023-02-09 09:50:54,162 - INFO - 2022-06-06 No trades to execute 
+ 2023-02-09 09:50:54,174 - INFO - 2022-06-06 : Trade PL $0 | Position PL $42,766 | Total PL $42,766 | AUM $98,116,383 | Return on AUM 0.04% 
+ 2023-02-09 09:50:54,178 - INFO - 2022-06-07 No trades to execute 
+ 2023-02-09 09:50:54,189 - INFO - 2022-06-07 : Trade PL $0 | Position PL $144,615 | Total PL $144,615 | AUM $98,260,997 | Return on AUM 0.15% 
+ 2023-02-09 09:50:54,192 - INFO - 2022-06-08 No trades to execute 
+ 2023-02-09 09:50:54,204 - INFO - 2022-06-08 : Trade PL $0 | Position PL $-42,202 | Total PL $-42,202 | AUM $98,218,795 | Return on AUM -0.04% 
+ 2023-02-09 09:50:54,207 - INFO - 2022-06-09 No trades to execute 
+ 2023-02-09 09:50:54,219 - INFO - 2022-06-09 : Trade PL $0 | Position PL $-299,359 | Total PL $-299,359 | AUM $97,919,436 | Return on AUM -0.30% 
+ 2023-02-09 09:50:54,222 - INFO - 2022-06-10 No trades to execute 
+ 2023-02-09 09:50:54,233 - INFO - 2022-06-10 : Trade PL $0 | Position PL $-310,049 | Total PL $-310,049 | AUM $97,609,387 | Return on AUM -0.32% 
+ 2023-02-09 09:50:54,236 - INFO - 2022-06-13 No trades to execute 
+ 2023-02-09 09:50:54,248 - INFO - 2022-06-13 : Trade PL $0 | Position PL $-295,420 | Total PL $-295,420 | AUM $97,313,967 | Return on AUM -0.30% 
+ 2023-02-09 09:50:54,251 - INFO - 2022-06-14 No trades to execute 
+ 2023-02-09 09:50:54,264 - INFO - 2022-06-14 : Trade PL $0 | Position PL $49,518 | Total PL $49,518 | AUM $97,363,485 | Return on AUM 0.05% 
+ 2023-02-09 09:50:54,267 - INFO - 2022-06-15 No trades to execute 
+ 2023-02-09 09:50:54,280 - INFO - 2022-06-15 : Trade PL $0 | Position PL $150,242 | Total PL $150,242 | AUM $97,513,727 | Return on AUM 0.15% 
+ 2023-02-09 09:50:54,283 - INFO - 2022-06-16 No trades to execute 
+ 2023-02-09 09:50:54,296 - INFO - 2022-06-16 : Trade PL $0 | Position PL $-302,172 | Total PL $-302,172 | AUM $97,211,555 | Return on AUM -0.31% 
+ 2023-02-09 09:50:54,299 - INFO - 2022-06-17 No trades to execute 
+ 2023-02-09 09:50:54,312 - INFO - 2022-06-17 : Trade PL $0 | Position PL $84,405 | Total PL $84,405 | AUM $97,295,960 | Return on AUM 0.09% 
+ 2023-02-09 09:50:54,315 - INFO - 2022-06-21 No trades to execute 
+ 2023-02-09 09:50:54,328 - INFO - 2022-06-21 : Trade PL $0 | Position PL $242,526 | Total PL $242,526 | AUM $97,538,486 | Return on AUM 0.25% 
+ 2023-02-09 09:50:54,331 - INFO - 2022-06-22 No trades to execute 
+ 2023-02-09 09:50:54,343 - INFO - 2022-06-22 : Trade PL $0 | Position PL $-29,261 | Total PL $-29,261 | AUM $97,509,226 | Return on AUM -0.03% 
+ 2023-02-09 09:50:54,346 - INFO - 2022-06-23 No trades to execute 
+ 2023-02-09 09:50:54,358 - INFO - 2022-06-23 : Trade PL $0 | Position PL $164,309 | Total PL $164,309 | AUM $97,673,535 | Return on AUM 0.17% 
+ 2023-02-09 09:50:54,361 - INFO - 2022-06-24 No trades to execute 
+ 2023-02-09 09:50:54,373 - INFO - 2022-06-24 : Trade PL $0 | Position PL $190,756 | Total PL $190,756 | AUM $97,864,291 | Return on AUM 0.20% 
+ 2023-02-09 09:50:54,377 - INFO - 2022-06-27 No trades to execute 
+ 2023-02-09 09:50:54,389 - INFO - 2022-06-27 : Trade PL $0 | Position PL $0 | Total PL $0 | AUM $97,864,291 | Return on AUM 0.00% 
+ 2023-02-09 09:50:54,392 - INFO - 2022-06-28 No trades to execute 
+ 2023-02-09 09:50:54,405 - INFO - 2022-06-28 : Trade PL $0 | Position PL $-237,460 | Total PL $-237,460 | AUM $97,626,831 | Return on AUM -0.24% 
+ 2023-02-09 09:50:54,408 - INFO - 2022-06-29 No trades to execute 
+ 2023-02-09 09:50:54,421 - INFO - 2022-06-29 : Trade PL $0 | Position PL $100,723 | Total PL $100,723 | AUM $97,727,554 | Return on AUM 0.10% 
+ 2023-02-09 09:50:54,424 - INFO - 2022-06-30 No trades to execute 
+ 2023-02-09 09:50:54,436 - INFO - 2022-06-30 : Trade PL $0 | Position PL $-141,238 | Total PL $-141,238 | AUM $97,586,316 | Return on AUM -0.14% 
+ 2023-02-09 09:50:54,439 - INFO - 2022-07-01 No trades to execute 
+ 2023-02-09 09:50:54,451 - INFO - 2022-07-01 : Trade PL $0 | Position PL $124,357 | Total PL $124,357 | AUM $97,710,672 | Return on AUM 0.13% 
+ 2023-02-09 09:50:54,454 - INFO - 2022-07-05 No trades to execute 
+ 2023-02-09 09:50:54,467 - INFO - 2022-07-05 : Trade PL $0 | Position PL $147,991 | Total PL $147,991 | AUM $97,858,664 | Return on AUM 0.15% 
+ 2023-02-09 09:50:54,470 - INFO - 2022-07-06 No trades to execute 
+ 2023-02-09 09:50:54,482 - INFO - 2022-07-06 : Trade PL $0 | Position PL $76,529 | Total PL $76,529 | AUM $97,935,192 | Return on AUM 0.08% 
+ 2023-02-09 09:50:54,485 - INFO - 2022-07-07 No trades to execute 
+ 2023-02-09 09:50:54,496 - INFO - 2022-07-07 : Trade PL $0 | Position PL $193,007 | Total PL $193,007 | AUM $98,128,200 | Return on AUM 0.20% 
+ 2023-02-09 09:50:54,499 - INFO - 2022-07-08 No trades to execute 
+ 2023-02-09 09:50:54,511 - INFO - 2022-07-08 : Trade PL $0 | Position PL $38,825 | Total PL $38,825 | AUM $98,167,025 | Return on AUM 0.04% 
+ 2023-02-09 09:50:54,514 - INFO - 2022-07-11 No trades to execute 
+ 2023-02-09 09:50:54,527 - INFO - 2022-07-11 : Trade PL $0 | Position PL $-122,107 | Total PL $-122,107 | AUM $98,044,918 | Return on AUM -0.12% 
+ 2023-02-09 09:50:54,530 - INFO - 2022-07-12 No trades to execute 
+ 2023-02-09 09:50:54,542 - INFO - 2022-07-12 : Trade PL $0 | Position PL $55,708 | Total PL $55,708 | AUM $98,100,627 | Return on AUM 0.06% 
+ 2023-02-09 09:50:54,545 - INFO - 2022-07-13 No trades to execute 
+ 2023-02-09 09:50:54,556 - INFO - 2022-07-13 : Trade PL $0 | Position PL $-20,820 | Total PL $-20,820 | AUM $98,079,807 | Return on AUM -0.02% 
+ 2023-02-09 09:50:54,559 - INFO - 2022-07-14 No trades to execute 
+ 2023-02-09 09:50:54,571 - INFO - 2022-07-14 : Trade PL $0 | Position PL $167,685 | Total PL $167,685 | AUM $98,247,492 | Return on AUM 0.17% 
+ 2023-02-09 09:50:54,573 - INFO - 2022-07-15 No trades to execute 
+ 2023-02-09 09:50:54,585 - INFO - 2022-07-15 : Trade PL $0 | Position PL $95,660 | Total PL $95,660 | AUM $98,343,152 | Return on AUM 0.10% 
+ 2023-02-09 09:50:54,588 - INFO - 2022-07-18 No trades to execute 
+ 2023-02-09 09:50:54,600 - INFO - 2022-07-18 : Trade PL $0 | Position PL $-174,438 | Total PL $-174,438 | AUM $98,168,714 | Return on AUM -0.18% 
+ 2023-02-09 09:50:54,603 - INFO - 2022-07-19 No trades to execute 
+ 2023-02-09 09:50:54,614 - INFO - 2022-07-19 : Trade PL $0 | Position PL $221,142 | Total PL $221,142 | AUM $98,389,856 | Return on AUM 0.23% 
+ 2023-02-09 09:50:54,617 - INFO - 2022-07-20 No trades to execute 
+ 2023-02-09 09:50:54,629 - INFO - 2022-07-20 : Trade PL $0 | Position PL $114,792 | Total PL $114,792 | AUM $98,504,648 | Return on AUM 0.12% 
+ 2023-02-09 09:50:54,632 - INFO - 2022-07-21 No trades to execute 
+ 2023-02-09 09:50:54,643 - INFO - 2022-07-21 : Trade PL $0 | Position PL $129,985 | Total PL $129,985 | AUM $98,634,633 | Return on AUM 0.13% 
+ 2023-02-09 09:50:54,646 - INFO - 2022-07-22 No trades to execute 
+ 2023-02-09 09:50:54,657 - INFO - 2022-07-22 : Trade PL $0 | Position PL $-70,901 | Total PL $-70,901 | AUM $98,563,732 | Return on AUM -0.07% 
+ 2023-02-09 09:50:54,660 - INFO - 2022-07-25 No trades to execute 
+ 2023-02-09 09:50:54,671 - INFO - 2022-07-25 : Trade PL $0 | Position PL $-64,147 | Total PL $-64,147 | AUM $98,499,584 | Return on AUM -0.07% 
+ 2023-02-09 09:50:54,674 - INFO - 2022-07-26 No trades to execute 
+ 2023-02-09 09:50:54,685 - INFO - 2022-07-26 : Trade PL $0 | Position PL $-75,965 | Total PL $-75,965 | AUM $98,423,620 | Return on AUM -0.08% 
+ 2023-02-09 09:50:54,688 - INFO - 2022-07-27 No trades to execute 
+ 2023-02-09 09:50:54,700 - INFO - 2022-07-27 : Trade PL $0 | Position PL $292,042 | Total PL $292,042 | AUM $98,715,661 | Return on AUM 0.30% 
+ 2023-02-09 09:50:54,702 - INFO - 2022-07-28 No trades to execute 
+ 2023-02-09 09:50:54,714 - INFO - 2022-07-28 : Trade PL $0 | Position PL $31,513 | Total PL $31,513 | AUM $98,747,174 | Return on AUM 0.03% 
+ 2023-02-09 09:50:54,717 - INFO - 2022-07-29 No trades to execute 
+ 2023-02-09 09:50:54,728 - INFO - 2022-07-29 : Trade PL $0 | Position PL $290,354 | Total PL $290,354 | AUM $99,037,528 | Return on AUM 0.29% 
+ 2023-02-09 09:50:54,731 - INFO - 2022-08-01 No trades to execute 
+ 2023-02-09 09:50:54,743 - INFO - 2022-08-01 : Trade PL $0 | Position PL $-56,270 | Total PL $-56,270 | AUM $98,981,258 | Return on AUM -0.06% 
+ 2023-02-09 09:50:54,745 - INFO - 2022-08-02 No trades to execute 
+ 2023-02-09 09:50:54,757 - INFO - 2022-08-02 : Trade PL $0 | Position PL $-84,406 | Total PL $-84,406 | AUM $98,896,852 | Return on AUM -0.09% 
+ 2023-02-09 09:50:54,760 - INFO - 2022-08-03 No trades to execute 
+ 2023-02-09 09:50:54,771 - INFO - 2022-08-03 : Trade PL $0 | Position PL $344,376 | Total PL $344,376 | AUM $99,241,228 | Return on AUM 0.35% 
+ 2023-02-09 09:50:54,774 - INFO - 2022-08-04 No trades to execute 
+ 2023-02-09 09:50:54,785 - INFO - 2022-08-04 : Trade PL $0 | Position PL $-18,007 | Total PL $-18,007 | AUM $99,223,221 | Return on AUM -0.02% 
+ 2023-02-09 09:50:54,788 - INFO - 2022-08-05 No trades to execute 
+ 2023-02-09 09:50:54,800 - INFO - 2022-08-05 : Trade PL $0 | Position PL $-12,960 | Total PL $-12,960 | AUM $99,210,261 | Return on AUM -0.01% 
+ 2023-02-09 09:50:54,803 - INFO - 2022-08-08 No trades to execute 
+ 2023-02-09 09:50:54,815 - INFO - 2022-08-08 : Trade PL $0 | Position PL $-27,048 | Total PL $-27,048 | AUM $99,183,213 | Return on AUM -0.03% 
+ 2023-02-09 09:50:54,819 - INFO - 2022-08-09 No trades to execute 
+ 2023-02-09 09:50:54,831 - INFO - 2022-08-09 : Trade PL $0 | Position PL $2,817 | Total PL $2,817 | AUM $99,186,030 | Return on AUM 0.00% 
+ 2023-02-09 09:50:54,834 - INFO - 2022-08-10 No trades to execute 
+ 2023-02-09 09:50:54,846 - INFO - 2022-08-10 : Trade PL $0 | Position PL $243,427 | Total PL $243,427 | AUM $99,429,457 | Return on AUM 0.25% 
+ 2023-02-09 09:50:54,849 - INFO - 2022-08-11 No trades to execute 
+ 2023-02-09 09:50:54,860 - INFO - 2022-08-11 : Trade PL $0 | Position PL $-42,262 | Total PL $-42,262 | AUM $99,387,195 | Return on AUM -0.04% 
+ 2023-02-09 09:50:54,864 - INFO - 2022-08-12 No trades to execute 
+ 2023-02-09 09:50:54,875 - INFO - 2022-08-12 : Trade PL $0 | Position PL $203,418 | Total PL $203,418 | AUM $99,590,613 | Return on AUM 0.20% 
+ 2023-02-09 09:50:54,878 - INFO - 2022-08-15 No trades to execute 
+ 2023-02-09 09:50:54,890 - INFO - 2022-08-15 : Trade PL $0 | Position PL $61,420 | Total PL $61,420 | AUM $99,652,033 | Return on AUM 0.06% 
+ 2023-02-09 09:50:54,893 - INFO - 2022-08-16 No trades to execute 
+ 2023-02-09 09:50:54,904 - INFO - 2022-08-16 : Trade PL $0 | Position PL $-9,016 | Total PL $-9,016 | AUM $99,643,017 | Return on AUM -0.01% 
+ 2023-02-09 09:50:54,907 - INFO - 2022-08-17 No trades to execute 
+ 2023-02-09 09:50:54,919 - INFO - 2022-08-17 : Trade PL $0 | Position PL $85,650 | Total PL $85,650 | AUM $99,728,667 | Return on AUM 0.09% 
+ 2023-02-09 09:50:54,922 - INFO - 2022-08-18 No trades to execute 
+ 2023-02-09 09:50:54,934 - INFO - 2022-08-18 : Trade PL $0 | Position PL $-22,539 | Total PL $-22,539 | AUM $99,706,127 | Return on AUM -0.02% 
+ 2023-02-09 09:50:54,937 - INFO - 2022-08-19 No trades to execute 
+ 2023-02-09 09:50:54,948 - INFO - 2022-08-19 : Trade PL $0 | Position PL $-148,196 | Total PL $-148,196 | AUM $99,557,931 | Return on AUM -0.15% 
+ 2023-02-09 09:50:54,952 - INFO - 2022-08-22 No trades to execute 
+ 2023-02-09 09:50:54,963 - INFO - 2022-08-22 : Trade PL $0 | Position PL $-222,576 | Total PL $-222,576 | AUM $99,335,355 | Return on AUM -0.22% 
+ 2023-02-09 09:50:54,967 - INFO - 2022-08-23 No trades to execute 
+ 2023-02-09 09:50:54,978 - INFO - 2022-08-23 : Trade PL $0 | Position PL $-19,159 | Total PL $-19,159 | AUM $99,316,196 | Return on AUM -0.02% 
+ 2023-02-09 09:50:54,981 - INFO - 2022-08-24 No trades to execute 
+ 2023-02-09 09:50:54,993 - INFO - 2022-08-24 : Trade PL $0 | Position PL $16,904 | Total PL $16,904 | AUM $99,333,100 | Return on AUM 0.02% 
+ 2023-02-09 09:50:54,996 - INFO - 2022-08-25 No trades to execute 
+ 2023-02-09 09:50:55,009 - INFO - 2022-08-25 : Trade PL $0 | Position PL $140,872 | Total PL $140,872 | AUM $99,473,972 | Return on AUM 0.14% 
+ 2023-02-09 09:50:55,012 - INFO - 2022-08-26 No trades to execute 
+ 2023-02-09 09:50:55,024 - INFO - 2022-08-26 : Trade PL $0 | Position PL $-361,195 | Total PL $-361,195 | AUM $99,112,777 | Return on AUM -0.36% 
+ 2023-02-09 09:50:55,027 - INFO - 2022-08-29 No trades to execute 
+ 2023-02-09 09:50:55,038 - INFO - 2022-08-29 : Trade PL $0 | Position PL $-126,219 | Total PL $-126,219 | AUM $98,986,557 | Return on AUM -0.13% 
+ 2023-02-09 09:50:55,041 - INFO - 2022-08-30 No trades to execute 
+ 2023-02-09 09:50:55,052 - INFO - 2022-08-30 : Trade PL $0 | Position PL $-139,181 | Total PL $-139,181 | AUM $98,847,376 | Return on AUM -0.14% 
+ 2023-02-09 09:50:55,055 - INFO - 2022-08-31 No trades to execute 
+ 2023-02-09 09:50:55,067 - INFO - 2022-08-31 : Trade PL $0 | Position PL $-95,230 | Total PL $-95,230 | AUM $98,752,147 | Return on AUM -0.10% 
+ 2023-02-09 09:50:55,070 - INFO - 2022-09-01 No trades to execute 
+ 2023-02-09 09:50:55,081 - INFO - 2022-09-01 : Trade PL $0 | Position PL $41,698 | Total PL $41,698 | AUM $98,793,845 | Return on AUM 0.04% 
+ 2023-02-09 09:50:55,084 - INFO - 2022-09-02 No trades to execute 
+ 2023-02-09 09:50:55,096 - INFO - 2022-09-02 : Trade PL $0 | Position PL $-121,150 | Total PL $-121,150 | AUM $98,672,695 | Return on AUM -0.12% 
+ 2023-02-09 09:50:55,099 - INFO - 2022-09-06 No trades to execute 
+ 2023-02-09 09:50:55,110 - INFO - 2022-09-06 : Trade PL $0 | Position PL $-72,126 | Total PL $-72,126 | AUM $98,600,569 | Return on AUM -0.07% 
+ 2023-02-09 09:50:55,113 - INFO - 2022-09-07 No trades to execute 
+ 2023-02-09 09:50:55,125 - INFO - 2022-09-07 : Trade PL $0 | Position PL $80,579 | Total PL $80,579 | AUM $98,681,148 | Return on AUM 0.08% 
+ 2023-02-09 09:50:55,128 - INFO - 2022-09-08 No trades to execute 
+ 2023-02-09 09:50:55,139 - INFO - 2022-09-08 : Trade PL $0 | Position PL $-84,523 | Total PL $-84,523 | AUM $98,596,626 | Return on AUM -0.09% 
+ 2023-02-09 09:50:55,142 - INFO - 2022-09-09 No trades to execute 
+ 2023-02-09 09:50:55,154 - INFO - 2022-09-09 : Trade PL $0 | Position PL $163,973 | Total PL $163,973 | AUM $98,760,599 | Return on AUM 0.17% 
+ 2023-02-09 09:50:55,157 - INFO - 2022-09-12 No trades to execute 
+ 2023-02-09 09:50:55,168 - INFO - 2022-09-12 : Trade PL $0 | Position PL $341,472 | Total PL $341,472 | AUM $99,102,071 | Return on AUM 0.35% 
+ 2023-02-09 09:50:55,171 - INFO - 2022-09-13 No trades to execute 
+ 2023-02-09 09:50:55,182 - INFO - 2022-09-13 : Trade PL $0 | Position PL $-540,382 | Total PL $-540,382 | AUM $98,561,689 | Return on AUM -0.55% 
+ 2023-02-09 09:50:55,185 - INFO - 2022-09-14 No trades to execute 
+ 2023-02-09 09:50:55,196 - INFO - 2022-09-14 : Trade PL $0 | Position PL $82,832 | Total PL $82,832 | AUM $98,644,521 | Return on AUM 0.08% 
+ 2023-02-09 09:50:55,199 - INFO - 2022-09-15 No trades to execute 
+ 2023-02-09 09:50:55,211 - INFO - 2022-09-15 : Trade PL $0 | Position PL $-165,665 | Total PL $-165,665 | AUM $98,478,856 | Return on AUM -0.17% 
+ 2023-02-09 09:50:55,214 - INFO - 2022-09-16 No trades to execute 
+ 2023-02-09 09:50:55,226 - INFO - 2022-09-16 : Trade PL $0 | Position PL $-94,101 | Total PL $-94,101 | AUM $98,384,755 | Return on AUM -0.10% 
+ 2023-02-09 09:50:55,229 - INFO - 2022-09-19 No trades to execute 
+ 2023-02-09 09:50:55,241 - INFO - 2022-09-19 : Trade PL $0 | Position PL $212,997 | Total PL $212,997 | AUM $98,597,751 | Return on AUM 0.22% 
+ 2023-02-09 09:50:55,244 - INFO - 2022-09-20 No trades to execute 
+ 2023-02-09 09:50:55,255 - INFO - 2022-09-20 : Trade PL $0 | Position PL $136,364 | Total PL $136,364 | AUM $98,734,115 | Return on AUM 0.14% 
+ 2023-02-09 09:50:55,258 - INFO - 2022-09-21 No trades to execute 
+ 2023-02-09 09:50:55,270 - INFO - 2022-09-21 : Trade PL $0 | Position PL $-179,188 | Total PL $-179,188 | AUM $98,554,927 | Return on AUM -0.18% 
+ 2023-02-09 09:50:55,275 - INFO - 2022-09-22 No trades to execute 
+ 2023-02-09 09:50:55,286 - INFO - 2022-09-22 : Trade PL $0 | Position PL $-55,222 | Total PL $-55,222 | AUM $98,499,705 | Return on AUM -0.06% 
+ 2023-02-09 09:50:55,289 - INFO - 2022-09-23 No trades to execute 
+ 2023-02-09 09:50:55,301 - INFO - 2022-09-23 : Trade PL $0 | Position PL $-130,166 | Total PL $-130,166 | AUM $98,369,540 | Return on AUM -0.13% 
+ 2023-02-09 09:50:55,304 - INFO - 2022-09-26 No trades to execute 
+ 2023-02-09 09:50:55,316 - INFO - 2022-09-26 : Trade PL $0 | Position PL $19,159 | Total PL $19,159 | AUM $98,388,699 | Return on AUM 0.02% 
+ 2023-02-09 09:50:55,319 - INFO - 2022-09-27 No trades to execute 
+ 2023-02-09 09:50:55,331 - INFO - 2022-09-27 : Trade PL $0 | Position PL $55,785 | Total PL $55,785 | AUM $98,444,484 | Return on AUM 0.06% 
+ 2023-02-09 09:50:55,334 - INFO - 2022-09-28 No trades to execute 
+ 2023-02-09 09:50:55,346 - INFO - 2022-09-28 : Trade PL $0 | Position PL $-108,189 | Total PL $-108,189 | AUM $98,336,294 | Return on AUM -0.11% 
+ 2023-02-09 09:50:55,349 - INFO - 2022-09-29 No trades to execute 
+ 2023-02-09 09:50:55,360 - INFO - 2022-09-29 : Trade PL $0 | Position PL $-414,725 | Total PL $-414,725 | AUM $97,921,569 | Return on AUM -0.42% 
+ 2023-02-09 09:50:55,364 - INFO - 2022-09-30 No trades to execute 
+ 2023-02-09 09:50:55,376 - INFO - 2022-09-30 : Trade PL $0 | Position PL $-241,172 | Total PL $-241,172 | AUM $97,680,397 | Return on AUM -0.25% 
+ 2023-02-09 09:50:55,379 - INFO - 2022-10-03 No trades to execute 
+ 2023-02-09 09:50:55,391 - INFO - 2022-10-03 : Trade PL $0 | Position PL $239,481 | Total PL $239,481 | AUM $97,919,879 | Return on AUM 0.25% 
+ 2023-02-09 09:50:55,394 - INFO - 2022-10-04 No trades to execute 
+ 2023-02-09 09:50:55,405 - INFO - 2022-10-04 : Trade PL $0 | Position PL $205,673 | Total PL $205,673 | AUM $98,125,552 | Return on AUM 0.21% 
+ 2023-02-09 09:50:55,409 - INFO - 2022-10-05 No trades to execute 
+ 2023-02-09 09:50:55,421 - INFO - 2022-10-05 : Trade PL $0 | Position PL $16,903 | Total PL $16,903 | AUM $98,142,455 | Return on AUM 0.02% 
+ 2023-02-09 09:50:55,424 - INFO - 2022-10-06 No trades to execute 
+ 2023-02-09 09:50:55,435 - INFO - 2022-10-06 : Trade PL $0 | Position PL $-54,658 | Total PL $-54,658 | AUM $98,087,798 | Return on AUM -0.06% 
+ 2023-02-09 09:50:55,438 - INFO - 2022-10-07 No trades to execute 
+ 2023-02-09 09:50:55,450 - INFO - 2022-10-07 : Trade PL $0 | Position PL $-300,901 | Total PL $-300,901 | AUM $97,786,896 | Return on AUM -0.31% 
+ 2023-02-09 09:50:55,453 - INFO - 2022-10-10 No trades to execute 
+ 2023-02-09 09:50:55,464 - INFO - 2022-10-10 : Trade PL $0 | Position PL $18,595 | Total PL $18,595 | AUM $97,805,491 | Return on AUM 0.02% 
+ 2023-02-09 09:50:55,467 - INFO - 2022-10-11 No trades to execute 
+ 2023-02-09 09:50:55,478 - INFO - 2022-10-11 : Trade PL $0 | Position PL $-81,141 | Total PL $-81,141 | AUM $97,724,350 | Return on AUM -0.08% 
+ 2023-02-09 09:50:55,481 - INFO - 2022-10-12 No trades to execute 
+ 2023-02-09 09:50:55,492 - INFO - 2022-10-12 : Trade PL $0 | Position PL $-36,063 | Total PL $-36,063 | AUM $97,688,286 | Return on AUM -0.04% 
+ 2023-02-09 09:50:55,496 - INFO - 2022-10-13 No trades to execute 
+ 2023-02-09 09:50:55,507 - INFO - 2022-10-13 : Trade PL $0 | Position PL $262,022 | Total PL $262,022 | AUM $97,950,308 | Return on AUM 0.27% 
+ 2023-02-09 09:50:55,510 - INFO - 2022-10-14 No trades to execute 
+ 2023-02-09 09:50:55,521 - INFO - 2022-10-14 : Trade PL $0 | Position PL $-259,767 | Total PL $-259,767 | AUM $97,690,541 | Return on AUM -0.27% 
+ 2023-02-09 09:50:55,524 - INFO - 2022-10-17 No trades to execute 
+ 2023-02-09 09:50:55,535 - INFO - 2022-10-17 : Trade PL $0 | Position PL $227,085 | Total PL $227,085 | AUM $97,917,626 | Return on AUM 0.23% 
+ 2023-02-09 09:50:55,538 - INFO - 2022-10-18 No trades to execute 
+ 2023-02-09 09:50:55,550 - INFO - 2022-10-18 : Trade PL $0 | Position PL $75,506 | Total PL $75,506 | AUM $97,993,132 | Return on AUM 0.08% 
+ 2023-02-09 09:50:55,553 - INFO - 2022-10-19 No trades to execute 
+ 2023-02-09 09:50:55,565 - INFO - 2022-10-19 : Trade PL $0 | Position PL $6,198 | Total PL $6,198 | AUM $97,999,330 | Return on AUM 0.01% 
+ 2023-02-09 09:50:55,568 - INFO - 2022-10-20 No trades to execute 
+ 2023-02-09 09:50:55,580 - INFO - 2022-10-20 : Trade PL $0 | Position PL $-26,484 | Total PL $-26,484 | AUM $97,972,847 | Return on AUM -0.03% 
+ 2023-02-09 09:50:55,583 - INFO - 2022-10-21 No trades to execute 
+ 2023-02-09 09:50:55,595 - INFO - 2022-10-21 : Trade PL $0 | Position PL $218,633 | Total PL $218,633 | AUM $98,191,479 | Return on AUM 0.22% 
+ 2023-02-09 09:50:55,598 - INFO - 2022-10-24 No trades to execute 
+ 2023-02-09 09:50:55,610 - INFO - 2022-10-24 : Trade PL $0 | Position PL $122,839 | Total PL $122,839 | AUM $98,314,318 | Return on AUM 0.13% 
+ 2023-02-09 09:50:55,613 - INFO - 2022-10-25 No trades to execute 
+ 2023-02-09 09:50:55,625 - INFO - 2022-10-25 : Trade PL $0 | Position PL $162,848 | Total PL $162,848 | AUM $98,477,166 | Return on AUM 0.17% 
+ 2023-02-09 09:50:55,628 - INFO - 2022-10-26 No trades to execute 
+ 2023-02-09 09:50:55,640 - INFO - 2022-10-26 : Trade PL $0 | Position PL $-168,482 | Total PL $-168,482 | AUM $98,308,684 | Return on AUM -0.17% 
+ 2023-02-09 09:50:55,643 - INFO - 2022-10-27 No trades to execute 
+ 2023-02-09 09:50:55,655 - INFO - 2022-10-27 : Trade PL $0 | Position PL $-256,386 | Total PL $-256,386 | AUM $98,052,298 | Return on AUM -0.26% 
+ 2023-02-09 09:50:55,658 - INFO - 2022-10-28 No trades to execute 
+ 2023-02-09 09:50:55,670 - INFO - 2022-10-28 : Trade PL $0 | Position PL $616,453 | Total PL $616,453 | AUM $98,668,752 | Return on AUM 0.63% 
+ 2023-02-09 09:50:55,673 - INFO - 2022-10-31 No trades to execute 
+ 2023-02-09 09:50:55,685 - INFO - 2022-10-31 : Trade PL $0 | Position PL $-135,237 | Total PL $-135,237 | AUM $98,533,514 | Return on AUM -0.14% 
+ 2023-02-09 09:50:55,688 - INFO - 2022-11-01 No trades to execute 
+ 2023-02-09 09:50:55,700 - INFO - 2022-11-01 : Trade PL $0 | Position PL $-151,578 | Total PL $-151,578 | AUM $98,381,937 | Return on AUM -0.15% 
+ 2023-02-09 09:50:55,703 - INFO - 2022-11-02 No trades to execute 
+ 2023-02-09 09:50:55,715 - INFO - 2022-11-02 : Trade PL $0 | Position PL $-316,678 | Total PL $-316,678 | AUM $98,065,258 | Return on AUM -0.32% 
+ 2023-02-09 09:50:55,718 - INFO - 2022-11-03 No trades to execute 
+ 2023-02-09 09:50:55,730 - INFO - 2022-11-03 : Trade PL $0 | Position PL $-346,543 | Total PL $-346,543 | AUM $97,718,715 | Return on AUM -0.35% 
+ 2023-02-09 09:50:55,733 - INFO - 2022-11-04 No trades to execute 
+ 2023-02-09 09:50:55,745 - INFO - 2022-11-04 : Trade PL $0 | Position PL $-15,240 | Total PL $-15,240 | AUM $97,703,476 | Return on AUM -0.02% 
+ 2023-02-09 09:50:55,748 - INFO - 2022-11-07 No trades to execute 
+ 2023-02-09 09:50:55,759 - INFO - 2022-11-07 : Trade PL $0 | Position PL $30,478 | Total PL $30,478 | AUM $97,733,954 | Return on AUM 0.03% 
+ 2023-02-09 09:50:55,762 - INFO - 2022-11-08 No trades to execute 
+ 2023-02-09 09:50:55,774 - INFO - 2022-11-08 : Trade PL $0 | Position PL $32,736 | Total PL $32,736 | AUM $97,766,691 | Return on AUM 0.03% 
+ 2023-02-09 09:50:55,778 - INFO - 2022-11-09 No trades to execute 
+ 2023-02-09 09:50:55,789 - INFO - 2022-11-09 : Trade PL $0 | Position PL $-261,327 | Total PL $-261,327 | AUM $97,505,364 | Return on AUM -0.27% 
+ 2023-02-09 09:50:55,792 - INFO - 2022-11-10 No trades to execute 
+ 2023-02-09 09:50:55,804 - INFO - 2022-11-10 : Trade PL $0 | Position PL $677,304 | Total PL $677,304 | AUM $98,182,668 | Return on AUM 0.69% 
+ 2023-02-09 09:50:55,807 - INFO - 2022-11-11 No trades to execute 
+ 2023-02-09 09:50:55,818 - INFO - 2022-11-11 : Trade PL $0 | Position PL $159,731 | Total PL $159,731 | AUM $98,342,399 | Return on AUM 0.16% 
+ 2023-02-09 09:50:55,821 - INFO - 2022-11-14 No trades to execute 
+ 2023-02-09 09:50:55,833 - INFO - 2022-11-14 : Trade PL $0 | Position PL $-80,148 | Total PL $-80,148 | AUM $98,262,251 | Return on AUM -0.08% 
+ 2023-02-09 09:50:55,836 - INFO - 2022-11-15 No trades to execute 
+ 2023-02-09 09:50:55,847 - INFO - 2022-11-15 : Trade PL $0 | Position PL $99,338 | Total PL $99,338 | AUM $98,361,589 | Return on AUM 0.10% 
+ 2023-02-09 09:50:55,850 - INFO - 2022-11-16 No trades to execute 
+ 2023-02-09 09:50:55,861 - INFO - 2022-11-16 : Trade PL $0 | Position PL $-70,552 | Total PL $-70,552 | AUM $98,291,036 | Return on AUM -0.07% 
+ 2023-02-09 09:50:55,864 - INFO - 2022-11-17 No trades to execute 
+ 2023-02-09 09:50:55,876 - INFO - 2022-11-17 : Trade PL $0 | Position PL $108,934 | Total PL $108,934 | AUM $98,399,970 | Return on AUM 0.11% 
+ 2023-02-09 09:50:55,878 - INFO - 2022-11-18 No trades to execute 
+ 2023-02-09 09:50:55,890 - INFO - 2022-11-18 : Trade PL $0 | Position PL $32,171 | Total PL $32,171 | AUM $98,432,141 | Return on AUM 0.03% 
+ 2023-02-09 09:50:55,893 - INFO - 2022-11-21 No trades to execute 
+ 2023-02-09 09:50:55,904 - INFO - 2022-11-21 : Trade PL $0 | Position PL $-185,130 | Total PL $-185,130 | AUM $98,247,012 | Return on AUM -0.19% 
+ 2023-02-09 09:50:55,907 - INFO - 2022-11-22 No trades to execute 
+ 2023-02-09 09:50:55,919 - INFO - 2022-11-22 : Trade PL $0 | Position PL $122,479 | Total PL $122,479 | AUM $98,369,491 | Return on AUM 0.12% 
+ 2023-02-09 09:50:55,922 - INFO - 2022-11-23 No trades to execute 
+ 2023-02-09 09:50:55,934 - INFO - 2022-11-23 : Trade PL $0 | Position PL $50,234 | Total PL $50,234 | AUM $98,419,725 | Return on AUM 0.05% 
+ 2023-02-09 09:50:55,937 - INFO - 2022-11-25 No trades to execute 
+ 2023-02-09 09:50:55,948 - INFO - 2022-11-25 : Trade PL $0 | Position PL $-167,069 | Total PL $-167,069 | AUM $98,252,656 | Return on AUM -0.17% 
+ 2023-02-09 09:50:55,951 - INFO - 2022-11-28 No trades to execute 
+ 2023-02-09 09:50:55,963 - INFO - 2022-11-28 : Trade PL $0 | Position PL $-219,559 | Total PL $-219,559 | AUM $98,033,097 | Return on AUM -0.22% 
+ 2023-02-09 09:50:55,966 - INFO - 2022-11-29 No trades to execute 
+ 2023-02-09 09:50:55,977 - INFO - 2022-11-29 : Trade PL $0 | Position PL $-172,148 | Total PL $-172,148 | AUM $97,860,949 | Return on AUM -0.18% 
+ 2023-02-09 09:50:55,980 - INFO - 2022-11-30 No trades to execute 
+ 2023-02-09 09:50:55,992 - INFO - 2022-11-30 : Trade PL $0 | Position PL $387,192 | Total PL $387,192 | AUM $98,248,141 | Return on AUM 0.40% 
+ 2023-02-09 09:50:55,995 - INFO - 2022-12-01 No trades to execute 
+ 2023-02-09 09:50:56,007 - INFO - 2022-12-01 : Trade PL $0 | Position PL $15,804 | Total PL $15,804 | AUM $98,263,945 | Return on AUM 0.02% 
+ 2023-02-09 09:50:56,011 - INFO - 2022-12-02 No trades to execute 
+ 2023-02-09 09:50:56,022 - INFO - 2022-12-02 : Trade PL $0 | Position PL $-28,221 | Total PL $-28,221 | AUM $98,235,724 | Return on AUM -0.03% 
+ 2023-02-09 09:50:56,025 - INFO - 2022-12-05 No trades to execute 
+ 2023-02-09 09:50:56,036 - INFO - 2022-12-05 : Trade PL $0 | Position PL $-66,601 | Total PL $-66,601 | AUM $98,169,122 | Return on AUM -0.07% 
+ 2023-02-09 09:50:56,039 - INFO - 2022-12-06 No trades to execute 
+ 2023-02-09 09:50:56,051 - INFO - 2022-12-06 : Trade PL $0 | Position PL $-209,964 | Total PL $-209,964 | AUM $97,959,158 | Return on AUM -0.21% 
+ 2023-02-09 09:50:56,054 - INFO - 2022-12-07 No trades to execute 
+ 2023-02-09 09:50:56,066 - INFO - 2022-12-07 : Trade PL $0 | Position PL $-111,191 | Total PL $-111,191 | AUM $97,847,967 | Return on AUM -0.11% 
+ 2023-02-09 09:50:56,069 - INFO - 2022-12-08 No trades to execute 
+ 2023-02-09 09:50:56,081 - INFO - 2022-12-08 : Trade PL $0 | Position PL $96,515 | Total PL $96,515 | AUM $97,944,483 | Return on AUM 0.10% 
+ 2023-02-09 09:50:56,084 - INFO - 2022-12-09 No trades to execute 
+ 2023-02-09 09:50:56,096 - INFO - 2022-12-09 : Trade PL $0 | Position PL $-27,656 | Total PL $-27,656 | AUM $97,916,827 | Return on AUM -0.03% 
+ 2023-02-09 09:50:56,099 - INFO - 2022-12-12 No trades to execute 
+ 2023-02-09 09:50:56,110 - INFO - 2022-12-12 : Trade PL $0 | Position PL $131,510 | Total PL $131,510 | AUM $98,048,337 | Return on AUM 0.13% 
+ 2023-02-09 09:50:56,113 - INFO - 2022-12-13 No trades to execute 
+ 2023-02-09 09:50:56,125 - INFO - 2022-12-13 : Trade PL $0 | Position PL $55,313 | Total PL $55,313 | AUM $98,103,649 | Return on AUM 0.06% 
+ 2023-02-09 09:50:56,127 - INFO - 2022-12-14 No trades to execute 
+ 2023-02-09 09:50:56,139 - INFO - 2022-12-14 : Trade PL $0 | Position PL $-127,559 | Total PL $-127,559 | AUM $97,976,091 | Return on AUM -0.13% 
+ 2023-02-09 09:50:56,142 - INFO - 2022-12-15 No trades to execute 
+ 2023-02-09 09:50:56,153 - INFO - 2022-12-15 : Trade PL $0 | Position PL $-378,726 | Total PL $-378,726 | AUM $97,597,365 | Return on AUM -0.39% 
+ 2023-02-09 09:50:56,156 - INFO - 2022-12-16 No trades to execute 
+ 2023-02-09 09:50:56,167 - INFO - 2022-12-16 : Trade PL $0 | Position PL $-112,320 | Total PL $-112,320 | AUM $97,485,045 | Return on AUM -0.12% 
+ 2023-02-09 09:50:56,170 - INFO - 2022-12-19 No trades to execute 
+ 2023-02-09 09:50:56,181 - INFO - 2022-12-19 : Trade PL $0 | Position PL $-120,786 | Total PL $-120,786 | AUM $97,364,259 | Return on AUM -0.12% 
+ 2023-02-09 09:50:56,184 - INFO - 2022-12-20 No trades to execute 
+ 2023-02-09 09:50:56,196 - INFO - 2022-12-20 : Trade PL $0 | Position PL $-3,950 | Total PL $-3,950 | AUM $97,360,308 | Return on AUM -0.00% 
+ 2023-02-09 09:50:56,199 - INFO - 2022-12-21 No trades to execute 
+ 2023-02-09 09:50:56,211 - INFO - 2022-12-21 : Trade PL $0 | Position PL $177,792 | Total PL $177,792 | AUM $97,538,100 | Return on AUM 0.18% 
+ 2023-02-09 09:50:56,214 - INFO - 2022-12-22 No trades to execute 
+ 2023-02-09 09:50:56,225 - INFO - 2022-12-22 : Trade PL $0 | Position PL $-181,743 | Total PL $-181,743 | AUM $97,356,357 | Return on AUM -0.19% 
+ 2023-02-09 09:50:56,228 - INFO - 2022-12-23 No trades to execute 
+ 2023-02-09 09:50:56,240 - INFO - 2022-12-23 : Trade PL $0 | Position PL $-20,883 | Total PL $-20,883 | AUM $97,335,474 | Return on AUM -0.02% 
+ 2023-02-09 09:50:56,243 - INFO - 2022-12-27 No trades to execute 
+ 2023-02-09 09:50:56,255 - INFO - 2022-12-27 : Trade PL $0 | Position PL $-103,289 | Total PL $-103,289 | AUM $97,232,185 | Return on AUM -0.11% 
+ 2023-02-09 09:50:56,258 - INFO - 2022-12-28 No trades to execute 
+ 2023-02-09 09:50:56,272 - INFO - 2022-12-28 : Trade PL $0 | Position PL $-225,203 | Total PL $-225,203 | AUM $97,006,981 | Return on AUM -0.23% 
+ 2023-02-09 09:50:56,275 - INFO - 2022-12-29 No trades to execute 
+ 2023-02-09 09:50:56,287 - INFO - 2022-12-29 : Trade PL $0 | Position PL $201,498 | Total PL $201,498 | AUM $97,208,479 | Return on AUM 0.21% 
+ 2023-02-09 09:50:56,290 - INFO - 2022-12-30 No trades to execute 
+ 2023-02-09 09:50:56,302 - INFO - 2022-12-30 : Trade PL $0 | Position PL $18,061 | Total PL $18,061 | AUM $97,226,540 | Return on AUM 0.02% 
+ 2023-02-09 09:50:56,362 - INFO -                       Backtest
+Start               2022-01-03
+End                 2022-12-31
+Annual Return        -0.027762
+Cummulative Return   -0.027652
+Volatility            0.030895
+Sharpe Ratio          -0.89859
+Sortino Ratio        -1.472479
+ 2023-02-09 09:50:56,382 - INFO -             tradePL    positionPL       totalPL  ...      skew  kurtosis   sortino
+2022  106760.859387 -2.880221e+06 -2.773460e+06  ...  0.230475  0.801264 -1.472479
+
+[1 rows x 9 columns]
